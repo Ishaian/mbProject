@@ -1,10 +1,15 @@
 {
     "devDependencies": {
+        "@babel/preset-react": "7.0.0",
         "@symfony/webpack-encore": "^0.22.0",
+        "babel-preset-react": "^6.24.1",
         "bootstrap": "^4.2.1",
         "jquery": "^3.3.1",
         "node-sass": "^4.11.0",
         "popper.js": "^1.14.6",
+        "prop-types": "^15.6.2",
+        "react": "^16.7.0",
+        "react-dom": "^16.7.0",
         "sass-loader": "7.0.1",
         "webpack-notifier": "^1.6.0"
     },
